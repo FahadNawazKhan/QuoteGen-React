@@ -20,7 +20,7 @@ const QuoteCard = () => {
     }, []);
 
     return (
-        <div className="w-[600px] rounded-3xl border mt-5 border-white/10 bg-white/5 backdrop-blur-xl shadow-2xl p-10 text-white text-center">
+        <div className="max-w-[600px] rounded-3xl border mt-5 border-white/10 bg-white/5 backdrop-blur-xl shadow-2xl p-10 text-white text-center">
 
             <h1 className="text-2xl font-serif leading-relaxed">
                 {quote}

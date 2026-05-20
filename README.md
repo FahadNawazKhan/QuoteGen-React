@@ -13,7 +13,6 @@ Because apparently humans enjoy receiving emotional guidance from randomly gener
 Features:
 - Random quote generation
 - Beautiful glassmorphism UI
-- Responsive layout
 - Gradient buttons
 - API integration
 - Smooth user experience
